@@ -1,0 +1,1 @@
+java -cp ld22.jar com.mojang.ld22.Game
