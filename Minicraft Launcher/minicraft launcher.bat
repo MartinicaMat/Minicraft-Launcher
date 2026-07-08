@@ -1,3 +1,5 @@
+@echo off
+
 :menu
 echo =================================================
 echo              Minicraft Launcher
